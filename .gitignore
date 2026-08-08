@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+submission.json
+git init
+git add .
+git commit -m "Initial commit: Halyk covenant agent"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/halyk-ai-challenge.git
+git push -u origin main
